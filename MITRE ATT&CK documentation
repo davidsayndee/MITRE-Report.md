@@ -1,0 +1,45 @@
+# 🛡️ TryHackMe: MITRE – SOC Analyst Report
+
+## 📌 Module Name:
+**TryHackMe – MITRE ATT&CK Framework**
+
+## 🔎 Overview:
+This module introduces the MITRE ATT&CK® Framework — a globally recognized knowledge base of adversary tactics, techniques, and procedures (TTPs). It equips SOC Analysts with the vocabulary and structure to classify and understand cyber threats effectively.
+
+---
+
+## 🛠️ Hands-On Skills Learned:
+- Navigated and explored the MITRE ATT&CK Navigator tool
+- Identified adversary tactics and techniques across different attack phases
+- Practiced mapping real-world attacks to MITRE ATT&CK categories
+- Developed skills in threat intelligence and incident classification
+- Learned to apply ATT&CK in detection, hunting, and response scenarios
+
+---
+
+## 🎓 Key Takeaways:
+- Gained a strong foundational understanding of how attackers operate
+- Learned how to communicate threats clearly using MITRE’s standardized language
+- Improved ability to analyze and categorize attack patterns
+- Understood how ATT&CK can guide SOC detection rules and mitigation strategies
+
+---
+
+## 🧠 Why This Matters for a SOC Analyst Role:
+- MITRE ATT&CK is the backbone of modern threat intelligence and SOC operations
+- Using a common framework enhances collaboration across security teams
+- Helps analysts prioritize alerts based on attacker behavior models
+- Supports building proactive defenses rather than just reactive responses
+
+---
+
+## 🛡️ Tools/Concepts Used:
+- MITRE ATT&CK Navigator
+- Threat Tactics & Techniques
+- Attack Lifecycle Mapping
+- Incident Classification
+
+---
+
+## 🔗 TryHackMe Room:
+[MITRE ATT&CK – TryHackMe](https://tryhackme.com/room/mitre)
